@@ -1,0 +1,47 @@
+header {
+
+    background: $primary;
+    color: white;
+
+    padding: 20px;
+
+    text-align: center;
+
+    box-shadow: $shadow;
+
+}
+
+.container {
+
+    width: 95%;
+    max-width: 1300px;
+
+    margin: 30px auto;
+
+}
+
+.card {
+
+    background: $card;
+
+    padding: 25px;
+
+    margin-bottom: 25px;
+
+    border-radius: $radius;
+
+    box-shadow: $shadow;
+
+}
+
+.section-title {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    margin-bottom: 20px;
+
+}
